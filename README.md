@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TicTacToe with ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://i.imgur.com/Jbyfsyx.png)
 
 ## Available Scripts
 
